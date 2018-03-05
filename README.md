@@ -1,1 +1,1 @@
-# test-1
+Odyssey Home (working title) is a modern furniture website inspired by a WordPress theme I came across recently. I wanted to try to create somethime similar with a few twist in html. This project will have many more Javascript elements than my other projects once completed. 
